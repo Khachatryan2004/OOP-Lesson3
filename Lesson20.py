@@ -1,5 +1,5 @@
 # Polymorphism
-'''
+
 # խնդիր 1
 class Animal:
     def __init__(self, name, age, foot_count):
@@ -71,7 +71,7 @@ ferrari = Ferrari("Ferrari", "LaFerrari")
 print(ferrari.max_speed())
 print("Model of Ferrari-", ferrari.model)
 
-'''
+
 
 
 class Cat:
